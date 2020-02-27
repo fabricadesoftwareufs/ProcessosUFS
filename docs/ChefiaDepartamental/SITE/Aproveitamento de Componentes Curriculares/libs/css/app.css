@@ -5243,8 +5243,8 @@ img.biz-ex-diagram-image {
 
 /* line 1464, ../../sass/_export.scss */
 .biz-ex-active-ancestors.active-ancestors > a {
-  background: white !important;
-  color: #004984;
+  background: rgba(231, 82, 0, 0.01) !important;
+  color: white;
 }
 
 /* line 1470, ../../sass/_export.scss */
@@ -6201,7 +6201,7 @@ img.biz-ex-diagram-image {
   background: rgba(0, 0, 0, 0.1);
   top: 0;
   left: 0;
-  border: solid 1px #04984;
+  border: solid 1px #004984;
 }
 
 /* line 164, ../../sass/_zoomer.scss */
